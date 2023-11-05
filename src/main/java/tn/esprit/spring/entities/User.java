@@ -54,7 +54,7 @@ public class User implements Serializable {
 		this.dateNaissance = dateNaissance;
 		this.role = role;
 	}
-
+//test of the git 
 
 	@Override
 	public String toString() {
